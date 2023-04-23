@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dzsharp\bin\Debug\net7.0\dzsharp.exe
+C:\Users\user\Desktop\dzsharp\bin\Debug\net7.0\dzsharp.deps.json
+C:\Users\user\Desktop\dzsharp\bin\Debug\net7.0\dzsharp.runtimeconfig.json
+C:\Users\user\Desktop\dzsharp\bin\Debug\net7.0\dzsharp.dll
+C:\Users\user\Desktop\dzsharp\bin\Debug\net7.0\dzsharp.pdb
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\dzsharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\dzsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\dzsharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\dzsharp.AssemblyInfo.cs
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\dzsharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\dzsharp.dll
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\refint\dzsharp.dll
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\dzsharp.pdb
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\dzsharp.genruntimeconfig.cache
+C:\Users\user\Desktop\dzsharp\obj\Debug\net7.0\ref\dzsharp.dll
